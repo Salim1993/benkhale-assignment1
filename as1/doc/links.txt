@@ -1,0 +1,4 @@
+links used:
+
+http://stackoverflow.com/questions/27680275/dynamic-number-of-buttons-in-linearlayout
+http://codetheory.in/android-handlers-runnables-loopers-messagequeue-handlerthread/
