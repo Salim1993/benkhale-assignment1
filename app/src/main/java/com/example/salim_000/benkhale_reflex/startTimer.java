@@ -24,7 +24,7 @@ import java.util.TimerTask;
  */
 public class startTimer {
 
-    long totalTime = new Random().nextLong() * 10000;
+    int totalTime = new Random().nextInt(4000);
     Timer timer = new Timer();
 
     private String status = "not done";
@@ -38,7 +38,7 @@ public class startTimer {
             public void run() {
                 status = "done!";
             }
-        }, 5000);
+        }, (totalTime + 1000));
     }
 
     public String getStatus() {
