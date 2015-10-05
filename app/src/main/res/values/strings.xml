@@ -1,0 +1,46 @@
+<resources>
+        <string name="app_name">benkhale-Refelx</string>
+
+        <string name="appIntro">Reaction App</string>
+        <string name="action_settings">Settings</string>
+        <string name="singleplayerButton">Singleplayer</string>
+        <string name="title_activity_singleplayer">Singleplayer</string>
+
+        <string name="reactionInstruction">Press the button!</string>
+        <string name="title_activity_choosing_players">choosingPlayers</string>
+
+        <string name="pickNumberInstruction">Choose number of players.</string>
+        <string name="player3Button">3 Players</string>
+        <string name="player2Button">2 Players</string>
+        <string name="player4Button">4 Players</string>
+        <string name="title_activity_multiplayer_screen">multiplayerScreen</string>
+
+        <string name="hello_world">Hello world!</string>
+        <string name="goStatistics">Statistics</string>
+        <string name="goMultiplayer">Multiplayer</string>
+        <string name="buttonText">Press when green.</string>
+        <string name="dialogInstructions">Press when green.</string>
+        <string name="okay">OK</string>
+        <string name="title_activity_statistics">statistics</string>
+        <string name="clicks"># Clicks</string>
+        <string name="max10String">0</string>
+        <string name="min10String">0</string>
+        <string name="ave10String">0</string>
+        <string name="median10String">0</string>
+        <string name="max100String">2000</string>
+        <string name="min100String">3456</string>
+        <string name="ave100Strings">1045</string>
+        <string name="median100String">2341</string>
+        <string name="player1Game2String">23</string>
+        <string name="player1Game3String">22</string>
+        <string name="player1Game4String">11</string>
+        <string name="player2Game2String">245</string>
+        <string name="player2Game3">78</string>
+        <string name="player2Game4">555</string>
+        <string name="player3game2String">785</string>
+        <string name="player3Game3String">72</string>
+        <string name="player3Game4String">99</string>
+        <string name="player4Game2String">48</string>
+        <string name="player4Game3String">666</string>
+        <string name="player4Game4String">453</string>
+</resources>
